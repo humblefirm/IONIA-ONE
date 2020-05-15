@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'Droid Serif';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Droid Serif Regular'), local('DroidSerif-Regular'), url(http://fonts.gstatic.com/s/droidserif/v9/tDbI2oqRg1oM3QBjjcaDkOr9rAA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Droid Serif';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Droid Serif Bold'), local('DroidSerif-Bold'), url(http://fonts.gstatic.com/s/droidserif/v9/tDbV2oqRg1oM3QBjjcaDkOJGiRD7OwQ.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 02:11:56 May 28, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:21:11 May 12, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  RedisCDXSource: 693.519
+  captures_list: 1073.828
+  CDXLines.iter: 27.381 (3)
+  LoadShardBlock: 312.389 (3)
+  exclusion.robots: 0.216
+  PetaboxLoader3.resolve: 438.858 (4)
+  load_resource: 579.33
+  esindex: 0.011
+  exclusion.robots.policy: 0.2
+  PetaboxLoader3.datanode: 384.267 (5)
+*/
